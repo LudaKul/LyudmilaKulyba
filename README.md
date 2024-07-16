@@ -22,6 +22,7 @@ I have been working as a matching administrator at Profitero for three years. I 
                     </p>
 Socials
 
-<p align="left"> <a href="https://www.github.com/LudaKul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-<p align="left"> [Сертификат Stepik.pdf](https://github.com/user-attachments/files/16246362/Stepik.pdf) </p>
-<p align="left"> [Сертификат Postman.pdf](https://github.com/user-attachments/files/16246360/Postman.pdf) </p>
+<p align="left"> <a href="https://www.github.com/LudaKul/LyudmilaKulyba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/Сертификат-Postman-fedcba?style=for-the-badge&logo=%20"> (https://github.com/user-attachments/files/16246360/Postman.pdf) </p>
+<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/Функциональное-Тестирование-fedcba?style=for-the-badge&logo=%20"> (https://github.com/user-attachments/files/16246362/Stepik.pdf)</p>
+
